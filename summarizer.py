@@ -29,7 +29,7 @@ def generate_summary(text):
     result = summarizer(
         text,
         max_length=180,
-        min_length=80,
+        min_length=70,
         num_beams=4,
         length_penalty=1.2,
         do_sample=False
