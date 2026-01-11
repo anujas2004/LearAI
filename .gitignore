@@ -1,0 +1,49 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual Environments
+# --------------------
+venv/
+env/
+.venv/
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/
+
+# --------------------
+# Hugging Face / Transformers cache
+# --------------------
+.cache/
+hf_cache/
+transformers_cache/
+
+# --------------------
+# OS generated files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# IDE / Editor files
+# --------------------
+.vscode/
+.idea/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Temporary files
+# --------------------
+*.tmp
+*.bak
