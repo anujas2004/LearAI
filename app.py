@@ -14,9 +14,9 @@ from datetime import datetime
 import json
 import io
 
-st.set_page_config(page_title="LearAI", layout="centered")
+st.set_page_config(page_title="LearnAI", layout="centered")
 
-st.title("📘 LearAI – Free AI Study Assistant")
+st.title("📘 LearnAI – Free AI Study Assistant")
 st.write("Simplify, summarize, and manage your study notes using Generative AI")
 
 # ---------------- SESSION STATE ----------------
